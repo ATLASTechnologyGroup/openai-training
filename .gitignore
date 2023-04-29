@@ -1,0 +1,13 @@
+# Ignore the .idea folder created by PyCharm
+.idea/
+
+# Ignore the __pycache__ folder created by Python
+__pycache__/
+
+# Ignore openai files
+openai_api_key.txt
+openai_model_id.txt
+
+# Ignore Poetry files
+.venv/
+poetry.lock
